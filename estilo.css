@@ -1,0 +1,328 @@
+        :root {
+            --primary: #0678B6;
+            --primary-light: #048DCC;
+            --primary-dark: #05588C;
+            --navy: #133756;
+            --accent: #FF8F1C;
+            --text: #FFFFFF;
+            --muted: rgba(255, 255, 255, 0.82);
+            --border: rgba(4, 141, 204, 0.55);
+            --radius: 10px;
+            --panel: #0D2C49;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            background: var(--navy);
+            color: var(--text);
+            font-family: Arial, sans-serif;
+        }
+
+        .page-view {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            clip-path: inset(50%);
+        }
+
+        #view-home:checked ~ header #back-to-years {
+            display: none;
+        }
+
+        #view-2023:checked ~ header #back-to-years,
+        #view-2024:checked ~ header #back-to-years,
+        #view-2025:checked ~ header #back-to-years,
+        #view-2026:checked ~ header #back-to-years {
+            display: inline-flex;
+        }
+
+        #view-home:checked ~ main #anos {
+            display: grid;
+        }
+
+        #view-2023:checked ~ main #anos,
+        #view-2024:checked ~ main #anos,
+        #view-2025:checked ~ main #anos,
+        #view-2026:checked ~ main #anos {
+            display: none;
+        }
+
+        #view-2023:checked ~ main #ano-2023,
+        #view-2024:checked ~ main #ano-2024,
+        #view-2025:checked ~ main #ano-2025,
+        #view-2026:checked ~ main #ano-2026 {
+            display: block;
+        }
+
+        .site-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            padding: 18px max(24px, calc((100vw - 1200px) / 2));
+            background: var(--primary-dark);
+            border-bottom: 4px solid var(--accent);
+        }
+
+        .brand {
+            margin: 0;
+            font-size: 22px;
+            font-weight: 800;
+            letter-spacing: 1px;
+        }
+
+        .brand span {
+            color: var(--accent);
+        }
+
+        .back-link,
+        .student-card,
+        .year-card {
+            display: inline-flex;
+            min-height: 44px;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid var(--primary-light);
+            border-radius: var(--radius);
+            color: var(--text);
+            font-weight: 700;
+            text-align: center;
+            text-decoration: none;
+            transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+        }
+
+        .back-link {
+            padding: 10px 14px;
+            background: var(--navy);
+            cursor: pointer;
+            font: inherit;
+        }
+
+        .back-link:hover,
+        .back-link:focus-visible {
+            background: var(--primary);
+            border-color: var(--accent);
+        }
+
+        main {
+            width: 100%;
+            margin: 0 auto;
+            padding: 42px 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .year-grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 18px;
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        .year-card {
+            display: flex;
+            aspect-ratio: 1;
+            flex-direction: column;
+            gap: 10px;
+            padding: 20px;
+            border: 1px solid var(--primary-light);
+            border-radius: 8px;
+            background: var(--panel);
+            cursor: pointer;
+            font-family: inherit;
+            text-align: center;
+        }
+
+        .year-number {
+            color: var(--text);
+            font-size: 34px;
+            font-weight: 800;
+            letter-spacing: 2px;
+        }
+
+        .year-description {
+            color: var(--muted);
+            font-size: 16px;
+            font-weight: 400;
+        }
+
+        .year-art {
+            display: grid;
+            flex: 1;
+            width: 100%;
+            min-height: 0;
+            place-items: center;
+            padding: 10px;
+            border: 1px dashed var(--primary-light);
+            border-radius: 5px;
+            background: var(--navy);
+            color: var(--muted);
+            font-size: 13px;
+            font-weight: 400;
+            line-height: 1.4;
+        }
+
+        .year-card:hover {
+            background: var(--primary-light);
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        #view-2023:focus-visible ~ main label[for="view-2023"],
+        #view-2024:focus-visible ~ main label[for="view-2024"],
+        #view-2025:focus-visible ~ main label[for="view-2025"],
+        #view-2026:focus-visible ~ main label[for="view-2026"] {
+            outline: 3px solid var(--accent);
+            outline-offset: 3px;
+        }
+
+        .year-section {
+            display: none;
+            width: 100%;
+            scroll-margin-top: 24px;
+            margin-top: 36px;
+        }
+
+        .year-title {
+            margin: 0 0 18px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid var(--accent);
+            font-size: 26px;
+        }
+
+        .class-list {
+            display: grid;
+            gap: 24px;
+        }
+
+        .class-section {
+            min-width: 0;
+            padding: 20px;
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            background: var(--primary-dark);
+            box-shadow: 0 8px 24px rgba(19, 55, 86, 0.28);
+        }
+
+        .class-title {
+            margin: 0 0 16px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--accent);
+            font-size: 20px;
+            line-height: 1.4;
+        }
+
+        .class-photo {
+            display: grid;
+            min-height: 190px;
+            aspect-ratio: 16 / 7;
+            place-items: center;
+            margin-bottom: 18px;
+            padding: 18px;
+            border: 1px dashed var(--primary-light);
+            border-radius: var(--radius);
+            background: var(--navy);
+            color: var(--muted);
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        .student-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+            gap: 12px;
+        }
+
+        .student-card {
+            padding: 12px 14px;
+            background: var(--primary);
+            line-height: 1.4;
+            overflow-wrap: anywhere;
+            transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+        }
+
+        .student-card:hover,
+        .student-card:focus-visible {
+            background: var(--primary-light);
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .back-link:focus-visible,
+        .student-card:focus-visible {
+            outline: 3px solid var(--accent);
+            outline-offset: 3px;
+        }
+
+        .empty-state {
+            margin: 0;
+            padding: 12px 14px;
+            border: 1px dashed var(--primary-light);
+            border-radius: var(--radius);
+            color: var(--muted);
+            line-height: 1.5;
+        }
+
+        footer {
+            margin-top: auto;
+            padding: 16px 24px;
+            border-top: 3px solid var(--primary);
+            color: var(--muted);
+            text-align: center;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+
+        @media (max-width: 760px) {
+            .site-header {
+                align-items: flex-start;
+                flex-direction: column;
+                padding: 18px 16px;
+            }
+
+            main {
+                padding: 22px 16px;
+            }
+
+            .year-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                gap: 14px;
+            }
+
+            .class-section {
+                padding: 16px;
+            }
+
+            .student-grid {
+                grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+            }
+        }
+
+        @media (max-width: 520px) {
+            .year-grid {
+                grid-template-columns: 1fr;
+                width: min(100%, 460px);
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                scroll-behavior: auto !important;
+                transition: none !important;
+            }
+        }
