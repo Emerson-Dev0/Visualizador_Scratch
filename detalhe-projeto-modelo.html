@@ -8,22 +8,26 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
+    <!-- Estes controles alternam entre a seleção de anos e o conteúdo de cada ano. -->
     <input class="page-view" type="radio" name="page-view" id="view-home" aria-label="Selecionar ano" checked>
     <input class="page-view" type="radio" name="page-view" id="view-2023" aria-label="1ª Jornada Tecnológica, 2023">
     <input class="page-view" type="radio" name="page-view" id="view-2024" aria-label="2ª Jornada Tecnológica, 2024">
     <input class="page-view" type="radio" name="page-view" id="view-2025" aria-label="3ª Jornada Tecnológica, 2025">
     <input class="page-view" type="radio" name="page-view" id="view-2026" aria-label="4ª Jornada Tecnológica, 2026">
+    <!-- Cabeçalho com a logo e o botão para voltar à seleção de anos. -->
     <header class="site-header">
         <img class="brand-logo" src="Captura_de_tela_2026-10-30_155216-removebg-preview.png" alt="SKA TECHhub">
         <label class="back-link" id="back-to-years" for="view-home">Voltar aos anos</label>
     </header>
 
     <main>
+        <!-- Apresentação inicial e seleção do ano da jornada. -->
         <section class="page-intro" aria-labelledby="page-title">
             <p class="eyebrow">SKA TECHhub · Jornada Tecnológica</p>
             <h1 id="page-title">Projetos e turmas</h1>
             <p>Explore as jornadas por ano e conheça os projetos desenvolvidos por cada turma.</p>
         </section>
+        <!-- Cada cartão abre as turmas do ano escolhido. -->
         <nav class="year-grid" id="anos" aria-label="Selecionar ano">
             <label class="year-card" for="view-2023"><strong class="year-number">2023</strong><span class="year-description">1ª Jornada Tecnológica</span><span class="year-art" role="img" aria-label="Espaço para foto da turma">Espaço para foto da turma</span></label>
             <label class="year-card" for="view-2024"><strong class="year-number">2024</strong><span class="year-description">2ª Jornada Tecnológica</span><span class="year-art" role="img" aria-label="Espaço para foto da turma">Espaço para foto da turma</span></label>
@@ -31,8 +35,10 @@
             <label class="year-card" for="view-2026"><strong class="year-number">2026</strong><span class="year-description">4ª Jornada Tecnológica</span><span class="year-art" role="img" aria-label="Espaço para foto da turma">Espaço para foto da turma</span></label>
         </nav>
 
+        <!-- Turmas e grupos cadastrados em 2023. -->
         <section class="year-section" id="ano-2023" aria-labelledby="titulo-2023">
             <p class="eyebrow">1ª Jornada Tecnológica</p><h2 class="year-title" id="titulo-2023">Turmas de 2023</h2>
+            <!-- Cada seção representa uma turma; cada cartão interno é um grupo. -->
             <div class="class-list">
                 <section class="class-section" aria-labelledby="t1-2023">
                     <h3 class="class-title" id="t1-2023">T1 — Quinta-feira / Tarde</h3>
@@ -74,8 +80,10 @@
             </div>
         </section>
 
+        <!-- Turmas e grupos cadastrados em 2024. -->
         <section class="year-section" id="ano-2024" aria-labelledby="titulo-2024">
             <p class="eyebrow">2ª Jornada Tecnológica</p><h2 class="year-title" id="titulo-2024">Turmas de 2024</h2>
+            <!-- Cada seção representa uma turma; cada cartão interno é um grupo. -->
             <div class="class-list">
                 <section class="class-section" aria-labelledby="t1-2024">
                     <h3 class="class-title" id="t1-2024">T1 — Quinta-feira</h3>
@@ -107,8 +115,10 @@
             </div>
         </section>
 
+        <!-- Turmas e grupos cadastrados em 2025. -->
         <section class="year-section" id="ano-2025" aria-labelledby="titulo-2025">
             <p class="eyebrow">3ª Jornada Tecnológica</p><h2 class="year-title" id="titulo-2025">Turmas de 2025</h2>
+            <!-- Cada seção representa uma turma; cada cartão interno é um grupo. -->
             <div class="class-list">
                 <section class="class-section" aria-labelledby="t1-2025">
                     <h3 class="class-title" id="t1-2025">T1 — Terça-feira / Tarde</h3>
@@ -140,8 +150,10 @@
             </div>
         </section>
 
+        <!-- Turmas e grupos cadastrados em 2026. -->
         <section class="year-section" id="ano-2026" aria-labelledby="titulo-2026">
             <p class="eyebrow">4ª Jornada Tecnológica</p><h2 class="year-title" id="titulo-2026">Turmas de 2026</h2>
+            <!-- Cada seção representa uma turma; cada cartão interno é um grupo. -->
             <div class="class-list">
                 <section class="class-section" aria-labelledby="t1-2026">
                     <h3 class="class-title" id="t1-2026">T1 — Quinta-feira / Manhã</h3>
@@ -180,6 +192,7 @@
         </section>
     </main>
 
+    <!-- Rodapé com a identificação do projeto e o período das jornadas. -->
     <footer>SKA TECHhub · Jornada Tecnológica · 2023–2026</footer>
 </body>
 </html>
