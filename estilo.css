@@ -610,3 +610,35 @@
 
             footer { padding: 8px 20px; }
         }
+
+        .year-section .student-card.project-card { cursor: pointer; font: inherit; font-weight: 700; }
+
+        /* Página de jogo: reserva a tela para o player e a coluna de desenvolvedores. */
+        body.project-player-page { display: grid; width: 100vw; height: 100vh; min-height: 0; grid-template-rows: 74px minmax(0, 1fr); overflow: hidden; }
+        .project-player-header { display: flex; min-height: 74px; align-items: center; gap: 20px; padding: 10px 22px; background: var(--primary-light); border-bottom: 4px solid var(--accent); }
+        .project-player-header h1 { min-width: 0; margin: 0; overflow: hidden; font-size: clamp(20px, 2.6vw, 32px); text-overflow: ellipsis; white-space: nowrap; }
+        .project-player-main { display: flex; flex-direction: row; align-items: stretch; width: 100vw; height: auto; min-width: 0; min-height: 0; align-self: stretch; flex: none; gap: 12px; margin: 0; padding: 10px 12px; }
+        .project-stage-panel,
+        .project-authors-panel { min-width: 0; min-height: 0; padding: 12px; border: 1px solid var(--border); border-radius: 14px; background: var(--primary-dark); }
+        .project-stage-panel { display: flex; width: auto; min-width: 0; flex: 1 1 0; padding: 8px; }
+        .project-authors-panel { width: 260px; flex: 0 0 260px; overflow: hidden; }
+        /* A classe project-frame também está nos iframes estáticos de pagina-jogos/. */
+        .project-frame { display: block; width: 100%; min-width: 0; height: 100%; min-height: 0; flex: 1 1 auto; border: 0; border-radius: 8px; background: #071d30; }
+        .project-authors-panel h2 { margin: 0 0 12px; font-size: 20px; }
+        .project-authors { display: grid; grid-template-columns: minmax(0, 1fr); align-content: start; gap: 12px; }
+        .project-author-card { min-width: 0; padding: 8px; border: 1px solid var(--border); border-radius: 10px; background: rgba(7, 43, 72, .78); text-align: center; }
+        .project-author-photo { display: grid; width: 100%; aspect-ratio: 4 / 3; place-items: center; border: 1px dashed var(--primary-light); border-radius: 6px; background: var(--navy); color: var(--muted); font-size: 12px; }
+        .project-author-card h3 { margin: 8px 0 0; font-size: 14px; overflow-wrap: anywhere; }
+
+        @media (max-width: 760px) {
+            body.project-player-page { height: 100vh; grid-template-rows: 62px minmax(0, 1fr); }
+            .project-player-header { min-height: 62px; gap: 10px; padding: 8px 12px; }
+            .project-player-header .back-link { min-height: 38px; padding: 8px 10px; font-size: 13px; }
+            .project-player-main { width: 100vw; flex-direction: column; gap: 10px; padding: 10px; }
+            .project-stage-panel { min-height: 0; flex: 1 1 auto; }
+            .project-authors-panel { width: 100%; flex: 0 0 auto; padding: 8px; }
+            .project-authors-panel h2 { display: none; }
+            .project-authors { display: grid; grid-template-columns: minmax(0, 1fr); gap: 6px; }
+            .project-author-card { min-width: 0; padding: 6px; }
+            .project-author-photo { max-height: 54px; }
+        }
