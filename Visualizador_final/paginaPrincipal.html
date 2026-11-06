@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Galeria de Projetos - SKA Tech Hub</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: radial-gradient(circle at 60% 20%, #5a1c99 0%, #3a0f66 40%, #260947 100%);
+      min-height: 100vh;
+      padding: 24px;
+      color: #f8eaff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 26px;
+      padding: 12px 20px;
+      width: 100%;
+      max-width: 1920px;
+    }
+
+    .header h1 {
+      font-size: 2.6rem;
+      font-weight: 800;
+      background: linear-gradient(90deg, #ffe082, #ffca28, #ffd54f);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 4px 20px rgba(255, 193, 7, 0.3);
+      margin-bottom: 8px;
+    }
+
+    .header p {
+      font-size: 1rem;
+      opacity: 0.9;
+    }
+
+    .anos-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 52px;
+      max-width: 1920px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .equipe-container {
+      max-width: 1920px;
+      width: 100%;
+      margin: 18px auto 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    .ano-card {
+      background: linear-gradient(180deg, rgba(255, 193, 7, 0.14), rgba(255, 179, 0, 0.16));
+      border-radius: 20px;
+      padding: 40px;
+      border: 2px solid rgba(255, 193, 7, 0.4);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+      cursor: pointer;
+      transition: 0.25s ease;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .ano-card:hover {
+      transform: translateY(-6px) scale(1.02);
+      border-color: #ffca28;
+      box-shadow: 0 10px 30px rgba(255, 193, 7, 0.45);
+    }
+
+    .ano-imagem {
+      width: 100%;
+      height: 540px;
+      border-radius: 15px;
+      overflow: hidden;
+      background: #2b1145;
+      border: 2px solid rgba(255, 193, 7, 0.35);
+      margin-bottom: 15px;
+      flex-shrink: 0;
+    }
+
+    .ano-imagem img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .ano-info {
+      text-align: center;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .ano-info h2 {
+      font-size: 3.2rem;
+      color: #ffe082;
+      margin-bottom: 6px;
+    }
+
+    .ano-info p {
+      font-size: 1.32rem;
+      line-height: 1.45;
+      color: #ffecb3;
+      margin-bottom: 12px;
+      min-height: auto;
+      flex-grow: 1;
+    }
+
+    .ano-detalhes {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+
+    .ano-detalhes span {
+      background: rgba(255, 202, 40, 0.14);
+      color: #fff3cd;
+      border: 1px solid rgba(255, 202, 40, 0.35);
+      border-radius: 999px;
+      padding: 9px 18px;
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .btn-entrar {
+      width: 100%;
+      background: linear-gradient(90deg, #ffca28, #ffb300, #ffca28);
+      color: #4e2a00;
+      border: none;
+      border-radius: 10px;
+      padding: 16px 22px;
+      font-size: 1.15rem;
+      font-weight: 800;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(255, 193, 7, 0.35);
+      transition: 0.2s ease;
+    }
+
+    .btn-entrar:hover {
+      filter: brightness(1.08);
+      transform: scale(1.01);
+    }
+
+    .btn-equipe {
+      width: auto;
+      min-width: 220px;
+      padding-inline: 24px;
+      border: 2px solid rgba(255, 202, 40, 0.7);
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 16px;
+      color: #ffecb3;
+      opacity: 0.75;
+      font-size: 0.85rem;
+      max-width: 1100px;
+    }
+
+    @media (max-width: 1200px) {
+      .anos-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      body {
+        padding: 15px;
+      }
+
+      .header h1 {
+        font-size: 1.5rem;
+      }
+
+      .header {
+        margin-bottom: 20px;
+      }
+
+      .anos-container {
+        grid-template-columns: 1fr;
+        gap: 18px;
+      }
+
+      .btn-equipe {
+        width: 100%;
+      }
+
+      .ano-imagem {
+        height: 260px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .ano-card {
+        padding: 14px;
+        border-radius: 18px;
+      }
+
+      .ano-imagem {
+        height: 210px;
+        margin-bottom: 12px;
+      }
+
+      .ano-info h2 {
+        font-size: 1.4rem;
+      }
+
+      .ano-info p {
+        font-size: 0.85rem;
+      }
+
+      .header h1 {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>Projetos Scratch - Jornada Tecnológica SKA</h1>
+    <p>Galeria de projetos desenvolvidos pelos alunos</p>
+  </div>
+
+  <div id="anosContainer" class="anos-container"></div>
+
+  <div class="equipe-container">
+    <button class="btn-entrar btn-equipe" onclick="abrirAno('./equipe/equipe.html')">
+      Ver equipe SKA Tech Hub
+    </button>
+  </div>
+
+  <div class="footer">
+    © Galeria dos Alunos - SKA Tech Hub
+  </div>
+
+  <script>
+    const ANOS_DATA = [
+      {
+        ano: "2023",
+
+        // PREENCHER: caminho da imagem/foto geral da turma ou do ano
+        imagem: "./imagens/turmas/2023.png",
+
+        // PREENCHER: link para a pasta/página dos projetos de 2023
+        link: "./2023/2023.html",
+
+        descricao: "Projetos desenvolvidos pelas turmas participantes de 2023.",
+
+        // PREENCHER: ajuste essas informações como quiser
+        turmas: "4 turmas",
+        projetos: "17 projetos"
+      },
+      {
+        ano: "2024",
+
+        // PREENCHER: caminho da imagem/foto geral da turma ou do ano
+        imagem: "./imagens/turmas/2024.png",
+
+        // PREENCHER: link para a pasta/página dos projetos de 2024
+        link: "./2024/2024.html",
+
+        descricao: "Projetos desenvolvidos pelas turmas participantes de 2024.",
+
+        // PREENCHER: ajuste essas informações como quiser
+        turmas: "3 turmas",
+        projetos: "12 projetos"
+      },
+      {
+        ano: "2025",
+
+        // PREENCHER: caminho da imagem/foto geral da turma ou do ano
+        imagem: "./imagens/turmas/2025.JPG",
+
+        // PREENCHER: link para a pasta/página dos projetos de 2025
+        link: "./2025/2025.html",
+
+        descricao: "Projetos desenvolvidos pelas turmas participantes de 2025.",
+
+        // PREENCHER: ajuste essas informações como quiser
+        turmas: "3 turmas",
+        projetos: "12 projetos"
+      }
+    ];
+
+    function abrirAno(link) {
+      if (!link || link.trim() === "") {
+        alert("O link deste ano ainda não foi preenchido.");
+        return;
+      }
+
+      window.location.href = link;
+    }
+
+    function renderizarAnos() {
+      const container = document.getElementById("anosContainer");
+      container.innerHTML = "";
+
+      ANOS_DATA.forEach((item) => {
+        const card = document.createElement("div");
+        card.className = "ano-card";
+        card.onclick = () => abrirAno(item.link);
+
+        const imagemBox = document.createElement("div");
+        imagemBox.className = "ano-imagem";
+
+        const img = document.createElement("img");
+        img.src = item.imagem;
+        img.alt = "Foto da turma de " + item.ano;
+        img.onerror = function () {
+          this.style.display = "none";
+          imagemBox.style.display = "flex";
+          imagemBox.style.justifyContent = "center";
+          imagemBox.style.alignItems = "center";
+          imagemBox.style.color = "#ffecb3";
+          imagemBox.innerHTML = "Imagem de " + item.ano;
+        };
+
+        imagemBox.appendChild(img);
+
+        const info = document.createElement("div");
+        info.className = "ano-info";
+
+        const titulo = document.createElement("h2");
+        titulo.textContent = item.ano;
+
+        const descricao = document.createElement("p");
+        descricao.textContent = item.descricao;
+
+        const detalhes = document.createElement("div");
+        detalhes.className = "ano-detalhes";
+
+        const turmas = document.createElement("span");
+        turmas.textContent = item.turmas;
+
+        const projetos = document.createElement("span");
+        projetos.textContent = item.projetos;
+
+        detalhes.appendChild(turmas);
+        detalhes.appendChild(projetos);
+
+        const botao = document.createElement("button");
+        botao.className = "btn-entrar";
+        botao.textContent = "Ver projetos de " + item.ano;
+        botao.onclick = function (event) {
+          event.stopPropagation();
+          abrirAno(item.link);
+        };
+
+        info.appendChild(titulo);
+        info.appendChild(descricao);
+        info.appendChild(detalhes);
+        info.appendChild(botao);
+
+        card.appendChild(imagemBox);
+        card.appendChild(info);
+
+        container.appendChild(card);
+      });
+    }
+
+    renderizarAnos();
+  </script>
+</body>
+</html>

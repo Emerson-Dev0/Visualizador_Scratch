@@ -1,0 +1,10 @@
+{
+  "name": "scratch-viewer-offline-mode",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node tools/static_server.js",
+    "start": "npm run dev",
+    "validate": "node tools/validate_projects.js"
+  }
+}

@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Projetos Scratch 2023 - SKA Tech Hub</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: radial-gradient(circle at 60% 20%, #5a1c99 0%, #3a0f66 40%, #260947 100%);
+      min-height: 100vh;
+      padding: 30px;
+      color: #f8eaff;
+    }
+
+    a {
+      color: #64b5f6;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+      padding: 12px 20px;
+    }
+
+    .header h1 {
+      font-size: 1.9rem;
+      font-weight: 800;
+      background: linear-gradient(90deg, #ffe082, #ffca28, #ffd54f);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 4px 20px rgba(255, 193, 7, 0.3);
+      margin-bottom: 8px;
+    }
+
+    .header p {
+      font-size: 0.95rem;
+      opacity: 0.9;
+    }
+
+    .btn-voltar-home {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 18px;
+      background: linear-gradient(90deg, #fff176, #ffca28, #ff9800);
+      color: #4e2a00;
+      text-decoration: none;
+      padding: 16px 30px;
+      border: 3px solid #fff8c4;
+      border-radius: 14px;
+      font-weight: 900;
+      font-size: 1.25rem;
+      letter-spacing: 0;
+      box-shadow: 0 8px 22px rgba(255, 193, 7, 0.55);
+      transition: 0.2s ease;
+    }
+
+    .btn-voltar-home:hover {
+      filter: brightness(1.08);
+      transform: scale(1.03);
+    }
+
+    .turmas-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+      gap: 35px;
+      max-width: 1500px;
+      margin: 0 auto;
+    }
+
+    .turma-card {
+      background: linear-gradient(180deg, rgba(255, 193, 7, 0.14), rgba(255, 179, 0, 0.16));
+      border-radius: 25px;
+      padding: 25px;
+      border: 2px solid rgba(255, 193, 7, 0.4);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+    }
+
+    .turma-header {
+      background: linear-gradient(90deg, #ffca28, #ffb300, #ffca28);
+      color: #4e2a00;
+      text-align: center;
+      padding: 14px;
+      font-size: 1.3rem;
+      border-radius: 15px;
+      margin-bottom: 20px;
+      font-weight: 700;
+      box-shadow: 0 4px 14px rgba(255, 193, 7, 0.4);
+    }
+
+    .projetos-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 18px;
+    }
+
+    .projeto-card {
+      background: linear-gradient(180deg, #4a2678, #331b56);
+      border-radius: 18px;
+      border: 2px solid rgba(255, 193, 7, 0.35);
+      overflow: hidden;
+      cursor: pointer;
+      transition: 0.25s ease;
+      box-shadow: 0 5px 16px rgba(0, 0, 0, 0.35);
+    }
+
+    .projeto-card:hover {
+      transform: translateY(-5px) scale(1.02);
+      border-color: #ffca28;
+      box-shadow: 0 8px 26px rgba(255, 193, 7, 0.45);
+    }
+
+    .projeto-thumb {
+      height: 150px;
+      background: #2b1145;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #ffecb3;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .projeto-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .projeto-info {
+      padding: 15px;
+      text-align: center;
+      color: #ffe9b3;
+    }
+
+    .projeto-titulo {
+      font-size: 1rem;
+      color: #ffe082;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .projeto-alunos {
+      font-size: 0.9rem;
+    }
+
+    .projeto-viewer {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(10, 0, 25, 0.92);
+      backdrop-filter: blur(8px);
+      z-index: 999;
+      overflow-y: auto;
+    }
+
+    .projeto-viewer.active {
+      display: flex;
+    }
+
+    .viewer-container {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      width: 100%;
+      height: 100%;
+    }
+
+    .hall-sidebar {
+      background: linear-gradient(180deg, #4a2d80, #341e5e);
+      padding: 20px;
+      border-right: 2px solid rgba(255, 193, 7, 0.4);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .hall-sidebar h2 {
+      text-align: center;
+      color: #ffca28;
+      font-size: 1.3rem;
+      margin-bottom: 18px;
+    }
+
+    #hallSidebarContent {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 14px;
+      overflow: hidden;
+    }
+
+    .foto-coletiva-card {
+      text-align: center;
+    }
+
+    .foto-coletiva {
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      border-radius: 20px;
+      overflow: hidden;
+      background: #2b1145;
+      border: 2px solid rgba(255, 193, 7, 0.35);
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #ffecb3;
+      padding: 10px;
+    }
+
+    .foto-coletiva img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .foto-legenda {
+      font-weight: 700;
+      color: #fff;
+      font-size: 0.95rem;
+    }
+
+    .foto-subtitulo {
+      font-size: 0.82rem;
+      color: #ffecb3;
+      opacity: 0.9;
+      margin-top: 4px;
+    }
+
+    .sem-fotos-msg {
+      font-size: 0.85rem;
+      color: #ffecb3;
+      opacity: 0.8;
+      text-align: center;
+    }
+
+    .sidebar-footer {
+      padding: 10px;
+      margin-top: 10px;
+      border-top: 2px solid rgba(255, 193, 7, 0.25);
+      text-align: center;
+      font-size: 0.85rem;
+      color: #ffd54f;
+      opacity: 0.8;
+    }
+
+    .viewer-main {
+      display: flex;
+      flex-direction: column;
+      background: #1a102b;
+    }
+
+    .viewer-header {
+      background: linear-gradient(90deg, #ffca28, #ffb300);
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .viewer-header h2 {
+      color: #4e2a00;
+      font-size: 1.4rem;
+      margin-bottom: 4px;
+    }
+
+    .viewer-header p {
+      color: #5e3b00;
+      font-size: 0.9rem;
+    }
+
+    .btn-fechar {
+      background: linear-gradient(90deg, #fff176, #ffca28, #ff9800);
+      color: #4e2a00;
+      padding: 16px 30px;
+      font-size: 1.15rem;
+      font-weight: 900;
+      border: 3px solid #fff8c4;
+      border-radius: 14px;
+      cursor: pointer;
+      box-shadow: 0 6px 18px rgba(78, 42, 0, 0.35);
+      white-space: nowrap;
+    }
+
+    .btn-fechar:hover {
+      filter: brightness(1.08);
+      transform: scale(1.02);
+    }
+
+    .viewer-content {
+      flex: 1;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .game-area {
+      background: #1c0f2d;
+      border-radius: 20px;
+      border: 2px solid #ffca28;
+      width: 100%;
+      max-width: 1400px;
+      height: 90vh;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .game-frame {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 16px;
+      background: #000;
+    }
+
+    .game-icon {
+      font-size: 3rem;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    .game-message strong {
+      font-size: 1.4rem;
+    }
+
+    .game-message p {
+      margin-top: 10px;
+    }
+
+    .instructions {
+      margin-top: 20px;
+      background: #000;
+      border-radius: 12px;
+      border: 2px solid #ffca28;
+      padding: 16px 20px;
+      max-width: 600px;
+      color: #fff;
+      font-size: 0.9rem;
+    }
+
+    .instructions h3 {
+      color: #ffca28;
+      margin-bottom: 8px;
+      font-size: 1rem;
+    }
+
+    .instructions ol {
+      padding-left: 20px;
+    }
+
+    .instructions li {
+      margin-bottom: 6px;
+    }
+
+    @media (max-width: 900px) {
+      body {
+        padding: 15px;
+      }
+
+      .turmas-container {
+        grid-template-columns: 1fr;
+      }
+
+      .projetos-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .viewer-container {
+        grid-template-columns: 1fr;
+      }
+
+      .hall-sidebar {
+        display: none;
+      }
+
+      .viewer-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .btn-fechar {
+        width: 100%;
+      }
+
+      .game-area {
+        height: 70vh;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>Projetos Scratch 2023 - Jornada Tecnológica SKA</h1>
+    <p>Projetos desenvolvidos pelos alunos em 2023</p>
+    <a class="btn-voltar-home" href="../paginaPrincipal.html">Voltar para a home</a>
+  </div>
+
+  <div id="turmasContainer" class="turmas-container"></div>
+
+  <div id="projetoViewer" class="projeto-viewer">
+    <div class="viewer-container">
+      <div class="hall-sidebar">
+        <h2>Registro da Turma</h2>
+        <div id="hallSidebarContent"></div>
+
+        <div class="sidebar-footer">
+          © Galeria dos Alunos - SKA Tech Hub<br />
+          <span style="opacity: 0.6">Jornada Tecnológica 2023</span>
+        </div>
+      </div>
+
+      <div class="viewer-main">
+        <div class="viewer-header">
+          <div>
+            <h2 id="viewerTitulo"></h2>
+            <p id="viewerAlunos"></p>
+          </div>
+
+          <button class="btn-fechar" onclick="fecharViewer()">
+            Fechar jogo e voltar aos projetos
+          </button>
+        </div>
+
+        <div class="viewer-content">
+          <div class="game-area">
+            <iframe
+              id="gameFrame"
+              class="game-frame"
+              src=""
+              allowfullscreen
+              tabindex="0"
+              style="display: none"
+            ></iframe>
+
+            <div id="gameFallback">
+              <div class="game-icon">🎮</div>
+
+              <div class="game-message" style="text-align: center">
+                <strong id="projetoNome">Nome do Projeto</strong>
+                <p>O jogo deste projeto ainda não foi incluído nesta cópia offline.</p>
+              </div>
+
+              <div class="instructions">
+                <h3>Quando o arquivo estiver disponível:</h3>
+                <ol>
+                  <li>
+                    Adicione o HTML exportado do jogo na pasta deste ano.
+                  </li>
+                  <li>
+                    Atualize o campo
+                    <code>arquivo</code>.
+                  </li>
+                  <li>
+                    Se o projeto estiver no Scratch online, esse campo também aceita o link do Scratch.
+                  </li>
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="projetosOffline.js"></script>
+
+  <script>
+    const TURMA_LABELS = {
+      t1: "T1 - Quinta-feira / Tarde",
+      t2: "T2 - Sexta-feira / Manhã",
+      t3: "T3 - Sexta-feira / Tarde",
+      t4: "T4 - Sábado / Manhã"
+    };
+
+    function agruparPorTurma(projetos) {
+      const turmas = {};
+
+      projetos.forEach((p) => {
+        if (!turmas[p.turma]) {
+          turmas[p.turma] = [];
+        }
+
+        turmas[p.turma].push(p);
+      });
+
+      return turmas;
+    }
+
+    function renderizarTurmas() {
+      const container = document.getElementById("turmasContainer");
+      container.innerHTML = "";
+
+      const dados = window.PROJETOS_DATA || { projetos: [] };
+      const turmas = agruparPorTurma(dados.projetos);
+
+      Object.keys(turmas).forEach((turmaId) => {
+        const turmaProjetos = turmas[turmaId];
+
+        const turmaCard = document.createElement("div");
+        turmaCard.className = "turma-card";
+
+        const turmaHeader = document.createElement("div");
+        turmaHeader.className = "turma-header";
+        turmaHeader.textContent = TURMA_LABELS[turmaId] || turmaId.toUpperCase();
+
+        const projetosGrid = document.createElement("div");
+        projetosGrid.className = "projetos-grid";
+
+        turmaProjetos.forEach((projeto) => {
+          const card = document.createElement("div");
+          card.className = "projeto-card";
+          card.onclick = () => abrirProjeto(projeto.id);
+
+          const thumb = document.createElement("div");
+          thumb.className = "projeto-thumb";
+
+          if (projeto.thumb) {
+            const img = document.createElement("img");
+            img.src = projeto.thumb;
+            img.alt = "Capa do projeto " + projeto.titulo;
+
+            img.onerror = function () {
+              this.style.display = "none";
+              thumb.textContent = projeto.titulo;
+            };
+
+            thumb.appendChild(img);
+          } else {
+            thumb.textContent = projeto.titulo;
+          }
+
+          const info = document.createElement("div");
+          info.className = "projeto-info";
+
+          const titulo = document.createElement("div");
+          titulo.className = "projeto-titulo";
+          titulo.textContent = projeto.titulo;
+
+          const alunos = document.createElement("div");
+          alunos.className = "projeto-alunos";
+          alunos.textContent = projeto.alunos || "Alunos de 2023";
+
+          info.appendChild(titulo);
+          info.appendChild(alunos);
+
+          card.appendChild(thumb);
+          card.appendChild(info);
+          projetosGrid.appendChild(card);
+        });
+
+        turmaCard.appendChild(turmaHeader);
+        turmaCard.appendChild(projetosGrid);
+        container.appendChild(turmaCard);
+      });
+    }
+
+    function renderizarGaleriaProjeto(projeto) {
+      const hallContent = document.getElementById("hallSidebarContent");
+      hallContent.innerHTML = "";
+
+      if (projeto.galeria && projeto.galeria.tipo === "coletiva") {
+        const card = document.createElement("div");
+        card.className = "foto-coletiva-card";
+
+        const fotoBox = document.createElement("div");
+        fotoBox.className = "foto-coletiva";
+
+        if (projeto.galeria.foto) {
+          const img = document.createElement("img");
+          img.src = projeto.galeria.foto;
+          img.alt = projeto.galeria.legenda || "Foto da turma";
+
+          img.onerror = function () {
+            this.style.display = "none";
+            fotoBox.textContent = "Foto da turma";
+          };
+
+          fotoBox.appendChild(img);
+        } else {
+          fotoBox.textContent = "Foto da turma";
+        }
+
+        const legenda = document.createElement("div");
+        legenda.className = "foto-legenda";
+        legenda.textContent = projeto.galeria.legenda || "Turma de 2023";
+
+        const subtitulo = document.createElement("div");
+        subtitulo.className = "foto-subtitulo";
+        subtitulo.textContent = projeto.titulo;
+
+        card.appendChild(fotoBox);
+        card.appendChild(legenda);
+        card.appendChild(subtitulo);
+
+        hallContent.appendChild(card);
+        return;
+      }
+
+      const msg = document.createElement("div");
+      msg.className = "sem-fotos-msg";
+      msg.textContent = "Registro fotográfico não disponível para este projeto.";
+      hallContent.appendChild(msg);
+    }
+
+    function criarEventoTecla(tipo, tecla) {
+      return new KeyboardEvent(tipo, {
+        key: tecla,
+        code: tecla,
+        bubbles: true,
+        cancelable: true
+      });
+    }
+
+    function enviarSetaParaJogo(tipo, tecla) {
+      const frame = document.getElementById("gameFrame");
+
+      if (!frame || frame.style.display === "none") {
+        return;
+      }
+
+      try {
+        const alvo = frame.contentWindow;
+        const doc = frame.contentDocument || alvo.document;
+
+        alvo.dispatchEvent(criarEventoTecla(tipo, tecla));
+        doc.dispatchEvent(criarEventoTecla(tipo, tecla));
+
+        if (doc.body) {
+          doc.body.dispatchEvent(criarEventoTecla(tipo, tecla));
+        }
+      } catch (erro) {
+        // Jogos externos podem bloquear acesso ao iframe.
+      }
+    }
+
+    function configurarControlesWASD() {
+      const frame = document.getElementById("gameFrame");
+
+      if (!frame) {
+        return;
+      }
+
+      const mapaTeclas = {
+        w: "ArrowUp",
+        a: "ArrowLeft",
+        s: "ArrowDown",
+        d: "ArrowRight"
+      };
+
+      const tratarTecla = (evento) => {
+        const seta = mapaTeclas[(evento.key || "").toLowerCase()];
+
+        if (!seta) {
+          return;
+        }
+
+        evento.preventDefault();
+        enviarSetaParaJogo(evento.type, seta);
+      };
+
+      const instalarPonteNoJogo = () => {
+        try {
+          const alvo = frame.contentWindow;
+          const doc = frame.contentDocument || alvo.document;
+
+          if (alvo.__wasdConfigurado) {
+            return;
+          }
+
+          alvo.__wasdConfigurado = true;
+
+          const tratarTeclaDoJogo = (evento) => {
+            const seta = mapaTeclas[(evento.key || "").toLowerCase()];
+
+            if (!seta) {
+              return;
+            }
+
+            evento.preventDefault();
+            alvo.dispatchEvent(criarEventoTecla(evento.type, seta));
+            doc.dispatchEvent(criarEventoTecla(evento.type, seta));
+
+            if (doc.body) {
+              doc.body.dispatchEvent(criarEventoTecla(evento.type, seta));
+            }
+          };
+
+          alvo.addEventListener("keydown", tratarTeclaDoJogo);
+          alvo.addEventListener("keyup", tratarTeclaDoJogo);
+          doc.addEventListener("keydown", tratarTeclaDoJogo);
+          doc.addEventListener("keyup", tratarTeclaDoJogo);
+        } catch (erro) {
+          // Jogos externos podem bloquear acesso ao iframe.
+        }
+      };
+
+      document.addEventListener("keydown", tratarTecla);
+      document.addEventListener("keyup", tratarTecla);
+
+      frame.addEventListener("load", () => {
+        instalarPonteNoJogo();
+
+        try {
+          frame.focus();
+          frame.contentWindow.focus();
+        } catch (erro) {
+          frame.focus();
+        }
+      });
+
+      frame.addEventListener("click", () => {
+        frame.focus();
+      });
+    }
+
+    function abrirProjeto(projetoId) {
+      const dados = window.PROJETOS_DATA || { projetos: [] };
+
+      const projeto = dados.projetos.find((p) => p.id === projetoId);
+
+      if (!projeto) {
+        return;
+      }
+
+      document.getElementById("viewerTitulo").textContent = projeto.titulo;
+      document.getElementById("viewerAlunos").textContent =
+        "Alunos: " + (projeto.alunos || "Turma de 2023");
+      document.getElementById("projetoNome").textContent = projeto.titulo;
+
+      renderizarGaleriaProjeto(projeto);
+
+      const frame = document.getElementById("gameFrame");
+      const fallback = document.getElementById("gameFallback");
+
+      if (projeto.arquivo && projeto.arquivo.trim() !== "") {
+        let url = projeto.arquivo.trim();
+
+        const scratchMatch = url.match(
+          /^https?:\/\/scratch\.mit\.edu\/projects\/(\d+)/
+        );
+
+        if (scratchMatch) {
+          const id = scratchMatch[1];
+          url = "https://scratch.mit.edu/projects/" + id + "/embed";
+        }
+
+        frame.src = url;
+        frame.style.display = "block";
+        fallback.style.display = "none";
+
+        setTimeout(() => {
+          frame.focus();
+        }, 100);
+      } else {
+        frame.src = "";
+        frame.style.display = "none";
+        fallback.style.display = "block";
+      }
+
+      document.getElementById("projetoViewer").classList.add("active");
+    }
+
+    function fecharViewer() {
+      const frame = document.getElementById("gameFrame");
+
+      if (frame) {
+        frame.src = "";
+      }
+
+      document.getElementById("projetoViewer").classList.remove("active");
+    }
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        fecharViewer();
+      }
+    });
+
+    configurarControlesWASD();
+    renderizarTurmas();
+  </script>
+</body>
+</html>

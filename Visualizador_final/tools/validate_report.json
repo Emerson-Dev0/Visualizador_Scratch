@@ -1,0 +1,3568 @@
+[
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ GaFer Maze.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GaFerMazeT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA_TECH_HUB_ Labirinto_do _Ratão.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoDoRataoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Maze game.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MazeGameT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ A aventura de Mario.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\AventuraDeMarioT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Pacman10_11_23.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\PacmanT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Mr.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MrBackT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t2-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Lemond.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoLemondT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Os estudiosos.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\OsEstudiososT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Grêmio no mundial.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GremioNoMundialT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Chavirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\ChavirintoT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto Calculadora Operacional PCO.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraOperacionalPCOT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t4-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\TerrifyingPhantomT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t4-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\projetocalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t4-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t4-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Labirinto - Michel  e Gustavo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoMT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos.js",
+    "id": "2023-t4-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Projeto Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ GaFer Maze.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GaFerMazeT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA_TECH_HUB_ Labirinto_do _Ratão.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoDoRataoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Maze game.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MazeGameT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ A aventura de Mario.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\AventuraDeMarioT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Pacman10_11_23.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\PacmanT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Mr.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MrBackT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t2-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Lemond.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoLemondT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Os estudiosos.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\OsEstudiososT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Grêmio no mundial.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GremioNoMundialT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Chavirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\ChavirintoT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto Calculadora Operacional PCO.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraOperacionalPCOT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t4-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\TerrifyingPhantomT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t4-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\projetocalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t4-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t4-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Labirinto - Michel  e Gustavo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoMT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetos23.js",
+    "id": "2023-t4-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Projeto Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ GaFer Maze.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GaFerMazeT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA_TECH_HUB_ Labirinto_do _Ratão.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoDoRataoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Maze game.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MazeGameT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ A aventura de Mario.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\AventuraDeMarioT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Pacman10_11_23.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\PacmanT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Mr.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\MrBackT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t2-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Lemond.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoLemondT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaM.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Os estudiosos.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\OsEstudiososT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Grêmio no mundial.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\GremioNoMundialT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Chavirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\ChavirintoT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto Calculadora Operacional PCO.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraOperacionalPCOT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSextaT.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t4-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\TerrifyingPhantomT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t4-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Projeto calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\projetocalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t4-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t4-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Labirinto - Michel  e Gustavo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\LabirintoMT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\projetosOffline.js",
+    "id": "2023-t4-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\jogos\\Projeto Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\thumbs\\CalculadoraT4.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2023\\imagens\\turma\\23TurmaSab.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Estrelar.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoEstrelarT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ EsquivaRato.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\EsquivaRatoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora Bernardo e Leonardo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\CalculadoraCBT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t1-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Pac-Man.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoPac-ManT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Bob.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoBobT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Minecraft.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoMinecraftT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Super Labirinto World.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\SuperLabirintoWorldT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\FugaT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora1T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\PhantomT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos.js",
+    "id": "2024-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora2T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Estrelar.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoEstrelarT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ EsquivaRato.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\EsquivaRatoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora Bernardo e Leonardo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\CalculadoraCBT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t1-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Pac-Man.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoPac-ManT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Bob.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoBobT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Minecraft.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoMinecraftT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Super Labirinto World.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\SuperLabirintoWorldT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\FugaT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora1T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\PhantomT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetos24.js",
+    "id": "2024-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora2T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t1-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Estrelar.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoEstrelarT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t1-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ EsquivaRato.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\EsquivaRatoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t1-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t1-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora Bernardo e Leonardo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\CalculadoraCBT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t1-projeto-5",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Pac-Man.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoPac-ManT1.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaQuinta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t2-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Bob.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoBobT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t2-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto do Minecraft.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\LabirintoMinecraftT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t2-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Super Labirinto World.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\SuperLabirintoWorldT2.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaManha.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t3-projeto-1",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\FugaT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t3-projeto-2",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora1T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t3-projeto-3",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\PhantomT3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\projetosOffline.js",
+    "id": "2024-t3-projeto-4",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\jogos\\SKA TECH HUB_ Calculadora2.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\thumbs\\Calculadora2T3.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2024\\imagens\\turmas\\24TurmaSexta.jpg",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t1a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1223328657/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\chuva_de_penas.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\santiago.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Diane.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Luana.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t1b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1221583606/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\reino_subterranio.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Djonatan.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Fabricio.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t1c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1231809390/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\rei_do_gramado.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Gustavo.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t1d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1228877074/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\operacao_mathema.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Klara.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\BrunoHenrique.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t2a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1229709470/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\misterio_da_meia_noite.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Raísa.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Renata.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t2b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1242104714/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\hogrides_history.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Natan.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Luiz.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t2c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1243220016/fullscreen",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\offroad_fury.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Priscila.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Pietra.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t2d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1243187752/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\perdido_em_blocos.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Maria.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Vinicius.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Brenda.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t3a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1224720948/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\pumpkin_ghost_killers.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Anthony.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Daniel.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t3b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1224732549/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\barts_basketball.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Julio.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Valentina.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t3c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1233419276/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\sonic_code_quest.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\MariaLuisa.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\IsabelaCiceri.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\isabelaPost.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetos.js",
+    "id": "t3d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "remoto",
+        "valor": "https://scratch.mit.edu/projects/1230598687/fullscreen/",
+        "resultado": {
+          "ok": false,
+          "error": "fetch failed"
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\campeoes_de_punho.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Henrique.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Javier.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t1a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\A CHUVA DE PENAS.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\chuva_de_penas.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\santiago.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Diane.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Luana.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t1b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Reino Subterrâneo.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\reino_subterranio.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Djonatan.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Fabricio.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t1c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\REI DO GRAMADO.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\rei_do_gramado.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Gustavo.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t1d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Operação Mathema.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\operacao_mathema.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Klara.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\BrunoHenrique.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t2a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Mistério da meia noite.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\misterio_da_meia_noite.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Raísa.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Renata.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t2b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Hogride's History.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\hogrides_history.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Natan.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Luiz.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t2c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Offroad Fury.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\offroad_fury.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Priscila.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Pietra.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t2d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Perdidos em blocos.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\perdido_em_blocos.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Maria.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Vinicius.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Brenda.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t3a",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Pumpkin Ghost Killers - SKA techub.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\pumpkin_ghost_killers.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Anthony.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Daniel.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t3b",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\barts_basketball.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\barts_basketball.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Julio.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Valentina.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t3c",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\Sonic Code Quest.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\sonic_code_quest.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\MariaLuisa.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\IsabelaCiceri.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[2].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\isabelaPost.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\projetosOffline.js",
+    "id": "t3d",
+    "verifica": [
+      {
+        "campo": "arquivo",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\jogos\\CAMPEÕES DE PUNHO.html",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "thumb",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\thumbs\\campeoes_de_punho.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[0].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Henrique.png",
+        "resultado": {
+          "ok": true
+        }
+      },
+      {
+        "campo": "galeria.alunos[1].foto",
+        "tipo": "local",
+        "valor": "C:\\Users\\emerson.rodrigues\\Downloads\\Visualizador_final\\2025\\imagens\\alunos\\Javier.png",
+        "resultado": {
+          "ok": true
+        }
+      }
+    ]
+  }
+]
