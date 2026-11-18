@@ -109,7 +109,7 @@ window.PROJETOS_DATA = {
         fotoProjeto: "",
         alunos: [
           { nome: "Priscila", foto: "imagens/alunos/Priscila.png" },
-          { nome: "Pietra", foto: "imagens/alunos/Pietra.png" }
+          { nome: "Pietra", foto: "imagens/alunos/PIETRA.jpg" }
         ]
       }
     },

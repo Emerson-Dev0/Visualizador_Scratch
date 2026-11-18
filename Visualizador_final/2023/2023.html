@@ -121,7 +121,10 @@
     }
 
     .projeto-thumb {
-      height: 150px;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      height: auto;
+      flex: 0 0 auto;
       background: #2b1145;
       display: flex;
       justify-content: center;
@@ -144,7 +147,7 @@
     }
 
     .projeto-titulo {
-      font-size: 1rem;
+      font-size: 1.1rem;
       color: #ffe082;
       font-weight: bold;
       margin-bottom: 4px;
@@ -378,7 +381,7 @@
       }
 
       .projetos-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
 
       .viewer-container {

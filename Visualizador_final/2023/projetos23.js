@@ -192,7 +192,7 @@ window.PROJETOS_DATA = {
       titulo: "Terrifying Phantom",
       alunos: "Bruna e Débora",
       thumb: "./imagens/thumbs/TerrifyingPhantomT4.png",
-      arquivo: "jogos/SKA TECH HUB_ Labirinto Phantom_3D 6.html",
+      arquivo: "jogos/SKA TECH HUB_ Terrifying Phantom.html",
 
       galeria: {
         tipo: "coletiva",
