@@ -1,5 +1,5 @@
 document.querySelectorAll(".project-player-page").forEach((page) => {
-  const backLink = page.querySelector('.project-player-header .back-link[href*="ano-2026"]');
+  const backLink = page.querySelector('.project-player-header .back-link[href*="ano-2026"], .project-player-header .back-link[href*="ano-2024"]');
   const panel = page.querySelector(".project-authors-panel");
   const authors = [...page.querySelectorAll(".project-author-card h3")]
     .map((heading) => heading.textContent.trim())
