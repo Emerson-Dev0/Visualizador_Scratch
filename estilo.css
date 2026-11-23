@@ -522,10 +522,10 @@
             min-width: 0;
             flex: initial;
             aspect-ratio: auto;
-            min-height: 52px;
+            min-height: 60px;
             justify-content: center;
             gap: 4px;
-            padding: 8px 10px;
+            padding: 10px 12px;
             border: 1px solid rgba(4, 141, 204, 0.55);
             border-radius: 8px;
             background: var(--accent);
@@ -550,6 +550,9 @@
             font-size: 10px;
             font-weight: 400;
         }
+
+        .year-section .student-card.has-cover::before { display: none; }
+        .year-section .student-card .project-cover { display: block; width: 100%; height: 100px; flex: 0 0 100px; border-radius: 6px; object-fit: cover; }
 
         .year-section .empty-state {
             grid-column: 1 / -1;
@@ -627,13 +630,13 @@
             .year-section .student-grid { gap: 14px; }
 
             .year-section .student-card {
-                min-height: 44px;
-                padding: 6px 8px;
+                min-height: 52px;
+                padding: 8px 10px;
                 font-size: 11px;
             }
 
             .year-section .student-card::before {
-                min-height: 40px;
+                min-height: 48px;
                 aspect-ratio: 16 / 9;
             }
 
@@ -688,7 +691,9 @@
         /* Turmas em grade: sem navegação por setas ou seletor. */
         .year-section .class-list { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: start; gap: 14px; }
         .year-section .class-section { display: grid; width: auto; height: auto; min-height: 0; margin: 0; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto; }
-        .year-section .student-grid { display: grid; width: 100%; min-width: 0; min-height: 0; grid-template-columns: repeat(3, minmax(0, 1fr)); overflow: visible; align-content: start; }
+        .year-section .student-grid { display: grid; width: 100%; min-width: 0; min-height: 0; grid-template-columns: repeat(2, minmax(0, 1fr)); overflow: visible; align-content: start; }
+        .year-section .student-card { height: 176px; min-height: 176px; justify-content: flex-start; gap: 8px; padding: 10px; }
+        .year-section .student-card::before { height: 100px; min-height: 100px; flex-basis: 100px; aspect-ratio: auto; }
 
         /* Todos os desenvolvedores cabem na lateral; as fotos dividem o espaÃ§o disponÃ­vel. */
         body.project-player-page { height: 100vh; height: 100dvh; grid-template-rows: 74px minmax(0, 1fr); }
@@ -700,6 +705,13 @@
         .project-authors:has(> .project-author-card:nth-child(2):last-child) { grid-template-rows: repeat(2, minmax(0, 1fr)); }
         .project-authors:has(> .project-author-card:nth-child(3):last-child) { grid-template-rows: repeat(3, minmax(0, 1fr)); }
         .project-authors:has(> .project-author-card:nth-child(n+4)) { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: none; grid-auto-rows: minmax(0, 1fr); }
+        body:has(.project-player-header .back-link[href*="ano-2024"]) .project-authors-panel { display: none; }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-authors-panel { width: clamp(320px, 34vw, 440px); flex-basis: clamp(320px, 34vw, 440px); }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-card { display: flex; width: 100%; max-width: 440px; height: auto; flex-direction: column; align-items: stretch; align-self: center; gap: 12px; padding: 10px; border: 1px solid var(--border); border-radius: 12px; background: var(--primary); text-align: center; }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-photo { display: grid; width: 100%; min-height: 0; flex: 0 0 auto; aspect-ratio: 1 / 1; place-items: center; border: 1px dashed var(--primary-light); border-radius: 8px; background: var(--navy); color: var(--muted); font-size: 14px; }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-photo img { width: 100%; height: 100%; border-radius: inherit; object-fit: contain; }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-card h3 { margin: 4px 0 0; color: var(--text); font-size: 18px; }
+        body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-names { margin: 0 0 4px; color: var(--muted); font-size: 16px; line-height: 1.4; }
         .project-author-card { display: grid; min-height: 0; grid-template-rows: minmax(0, 1fr) auto; gap: 4px; padding: 6px; overflow: hidden; }
         .project-author-card h3 { margin: 0; font-size: clamp(11px, 1vw, 14px); line-height: 1.2; }
         .project-author-photo { width: 100%; height: 100%; min-height: 0; aspect-ratio: auto; }
@@ -708,6 +720,7 @@
 
         @media (max-width: 760px) {
             .year-section .class-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+            .year-section .student-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .project-player-main { flex-direction: column; overflow: hidden; }
             .project-stage-panel { min-height: 0; flex: 1 1 auto; }
             .project-authors-panel { width: 100%; max-height: 30vh; flex: 0 0 30vh; }
@@ -716,14 +729,114 @@
             .project-authors:has(> .project-author-card:nth-child(2):last-child),
             .project-authors:has(> .project-author-card:nth-child(3):last-child),
             .project-authors:has(> .project-author-card:nth-child(n+4)) { grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); grid-template-rows: minmax(0, 1fr); }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-authors-panel { width: 100%; max-height: 42vh; flex-basis: 42vh; overflow-y: auto; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-card { width: min(100%, 38vh); max-width: 400px; margin: 0 auto; gap: 8px; padding: 8px; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-photo { width: 100%; min-height: 0; max-height: none; flex: 0 0 auto; aspect-ratio: 1 / 1; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-card h3 { margin-top: 0; font-size: 14px; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-names { font-size: 13px; }
             .project-author-card { padding: 4px; }
             .project-author-card h3 { font-size: 11px; }
         }
         @media (max-width: 520px) {
             .year-section .class-list { grid-template-columns: 1fr; }
+            .year-section .student-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
             .project-authors-panel { max-height: 25vh; flex-basis: 25vh; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-authors-panel { max-height: 42vh; flex-basis: 42vh; }
+            body:has(.project-player-header .back-link[href*="ano-2026"]) .project-group-card { width: min(100%, 36vh); }
             .project-authors { grid-template-columns: repeat(auto-fit, minmax(75px, 1fr)); }
             .project-authors:has(> .project-author-card:nth-child(2):last-child),
             .project-authors:has(> .project-author-card:nth-child(3):last-child),
             .project-authors:has(> .project-author-card:nth-child(n+4)) { grid-template-columns: repeat(auto-fit, minmax(75px, 1fr)); }
+        }
+
+        body.project-player-page .project-authors:has(> .project-author-card:nth-child(3):last-child) img.project-author-photo {
+            object-fit: contain;
+            object-position: center;
+            background: var(--navy);
+        }
+
+        body:has(#view-2023:checked) {
+            height: 100vh;
+            height: 100dvh;
+            min-height: 0;
+            overflow: hidden;
+        }
+        body:has(#view-2023:checked) .site-header { flex: 0 0 auto; }
+        body:has(#view-2023:checked) main {
+            min-height: 0;
+            overflow: hidden;
+            padding: 8px 20px;
+        }
+        body:has(#view-2023:checked) footer { display: none; }
+        body:has(#view-2023:checked) #ano-2023 {
+            display: flex;
+            height: 100%;
+            min-height: 0;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        body:has(#view-2023:checked) #ano-2023 .year-title {
+            flex: 0 0 auto;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            font-size: clamp(20px, 2vw, 28px);
+        }
+        body:has(#view-2023:checked) #ano-2023 .class-list {
+            flex: 1 1 auto;
+            min-height: 0;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            align-items: stretch;
+            gap: 10px;
+        }
+        body:has(#view-2023:checked) #ano-2023 .class-section {
+            display: flex;
+            height: 100%;
+            min-height: 0;
+            flex-direction: column;
+            gap: 5px;
+            padding: 7px;
+            overflow: hidden;
+        }
+        body:has(#view-2023:checked) #ano-2023 .class-title {
+            flex: 0 0 auto;
+            margin: 0;
+            padding: 6px 4px;
+            font-size: clamp(10px, .85vw, 13px);
+            line-height: 1.2;
+        }
+        body:has(#view-2023:checked) #ano-2023 .student-grid {
+            display: grid;
+            flex: 1 1 auto;
+            min-height: 0;
+            grid-template-columns: minmax(0, 1fr);
+            grid-template-rows: repeat(5, minmax(0, 1fr));
+            align-content: stretch;
+            justify-content: stretch;
+            gap: 5px;
+            overflow: hidden;
+        }
+        body:has(#view-2023:checked) #ano-2023 .student-card {
+            height: auto;
+            min-height: 0;
+            aspect-ratio: auto;
+            gap: 3px;
+            padding: 4px;
+            font-size: clamp(9px, .8vw, 12px);
+            line-height: 1.1;
+        }
+        body:has(#view-2023:checked) #ano-2023 .student-card::before,
+        body:has(#view-2023:checked) #ano-2023 .student-card .project-cover {
+            width: 100%;
+            height: auto;
+            min-height: 0;
+            flex: 1 1 auto;
+            aspect-ratio: 16 / 10;
+        }
+        body:has(#view-2023:checked) #ano-2023 .student-card .project-cover { object-fit: cover; }
+
+        @media (max-width: 760px) {
+            body:has(#view-2023:checked) #ano-2023 .class-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        }
+        @media (max-width: 520px) {
+            body:has(#view-2023:checked) #ano-2023 .class-list { grid-template-columns: 1fr; }
         }
