@@ -1,1 +1,4 @@
 HTMLS_2026/Fernanda_gabriela_jogos.html filter=lfs diff=lfs merge=lfs -text
+jogos_sabado/** filter=lfs diff=lfs merge=lfs -text
+Labirinto_rafael_gustavo_of.html filter=lfs diff=lfs merge=lfs -text
+Labirinto_rafel[[:space:]]e[[:space:]]gustavo_final.html filter=lfs diff=lfs merge=lfs -text
